@@ -1,0 +1,8 @@
+streamlit
+playwright
+beautifulsoup4
+pdfplumber
+pandas
+rapidfuzz
+python-dotenv
+pillow    
