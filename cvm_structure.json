@@ -1,0 +1,89 @@
+{
+    "frame_url": "https://cvmweb.cvm.gov.br/SWB/default.asp?sg_sistema=fundosreg",
+    "depth": 0,
+    "inputs": [],
+    "child_frames": [
+        {
+            "frame_url": "https://cvmweb.cvm.gov.br/SWB/header-cvmweb.asp",
+            "depth": 1,
+            "inputs": [],
+            "child_frames": []
+        },
+        {
+            "frame_url": "https://cvmweb.cvm.gov.br/SWB//Sistemas/SCW/CPublica/CConsolFdo/FormBuscaParticFdo.aspx",
+            "depth": 1,
+            "inputs": [
+                {
+                    "tag": "input",
+                    "id": "__VIEWSTATE",
+                    "name": "__VIEWSTATE",
+                    "type": "hidden",
+                    "value": "/wEPDwULLTE1MjY1NzMwNjgPZBYCZg9kFgICAw9kFgICAw9kFgJmD2QWAmYPEGQQFRsFVG9kb3MhQ0xBU1NFUyBERSBDT1RBUyBERSBGVU5ET1MgRklBR1JPHkNMQVNTRVMgREUgQ09UQVMgREUgRlVORE9TIEZJRiVDTEFTU0VTIERFIENPVEFTIERFIEZVTkRPUyBGSUYgKEZBUEkpHkNMQVNTRVMgREUgQ09UQVMgREUgRlVORE9TIEZJUCJDTEFTU0VTIERFIENPVEFTIERFIEZVTkRPUyBGVU5DSU5FM0ZETyBJTlYgRU0gRElSIENSRURJVMOTUklPUyAtIFBST0ogSU5URVJFU1NFIFNPQ0lBTCxGRE9TIENPTlYuIENBUElUQUwgRVNUUkFOR0VJUk8gKMOBUkVBIExJVlJFKS9GRE9TIENPTlYuIERFIENBUElUQUwgRVNUUkFOR0VJUk8gKMOBUkVBICBJTkMuKStGRE9TIERFIEFQT1NFTlRBRE9SSUEgUFJPR1JBTUFEQSBJTkRJVklEVUFMJ0ZET1MgREUgSU5WLiBFTSBDT1RBUyBERSBGSURDIC0gRklDRklEQyxGRE9TIERFIElOVi4gRU0gRElSRUlUT1MgQ1JFRElUw5NSSU9TIC0gRklEQxFGRE9TIERFIElOVi4gRkdUUxRGRE9TIERFIElOVkVTVElNRU5UTyRGRE9TIERFIElOVkVTVElNRU5UTyBFTSBDT1RBUyBERSBGSVAqRkRPUyBERSBJTlZFU1RJTUVOVE8gRU0gw41ORElDRSBERSBNRVJDQURPLUZET1MgREUgSU5WRVNUSU1FTlRPIEVNIFBBUlRJQ0lQQcOHw5VFUyAtIEZJUCFGRE9TIERFIElOVkVTVElNRU5UTyBJTU9CSUxJw4FSSU8tRkRPUyBERSBJTlZFU1RJTUVOVE9TIENVTFRVUkFJUyBFIEFSVMONU1RJQ09TNEZET1MgRklOQU5DLiBEQSBJTkTDmlNUUklBIENJTkVNQVRPR1LDgUZJQ0EgTkFDSU9OQUw0RkRPUyBJTlYuIERJUiBDUkVESVTDk1JJT1MgTsODTyBQQURST05JWkFET1MtRklEQyBOUDFGRE9TIE3DmlRVT1MgREUgSU5WRVNUSU1FTlRPUyBFTSBFTVBSLiBFTUVSR0VOVEVTJUZET1MgTcOaVFVPUyBERSBQUklWQVRJWkHDh8ODTyAtIEZHVFM0RkRPUyBNw5pUVU9TIERFIFBSSVZBVElaQcOHw4NPIC0gRkdUUyBDQVJURUlSQSBMSVZSRSRGRE9TIE3DmlRVT1MgRU0gQcOHw5VFUyBJTkNFTlRJVkFEQVM9RlVORE9TIERFIElOVkVTVElNRU5UTyBEQVMgQ0FERUlBUyBQUk9EVVRJVkFTIERPIEFHUk9ORUfDk0NJTytTT0NJRURBREVTIElOVkVTVElNRU5UTyBDQVBJVEFMIEVTVFJBTkdFSVJPFRsBMAIzNAI2NgI1NAI2OAI3OQI4OQIyNwIyMgI5NgI4OAI4NwI5OQI5NQI3NAI4MwI3MwI2NwI3NQI5NAI5OAI3MgI0MwI4NQI3NwIzMwI1MBQrAxtnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUFY2JBZG2csaH+2FiqNkkJ+iL+BGz7qfbP44bjwlAdJ9QW6+6bHQ==",
+                    "placeholder": null,
+                    "text": ""
+                },
+                {
+                    "tag": "input",
+                    "id": "__VIEWSTATEGENERATOR",
+                    "name": "__VIEWSTATEGENERATOR",
+                    "type": "hidden",
+                    "value": "DF6A1489",
+                    "placeholder": null,
+                    "text": ""
+                },
+                {
+                    "tag": "input",
+                    "id": "__EVENTVALIDATION",
+                    "name": "__EVENTVALIDATION",
+                    "type": "hidden",
+                    "value": "/wEdAB967abYFiiR1o1/1+AtmMiaN0KMgb0ATixOJaMWRbjM7j3POfPpqP3NMVn71TRiBdifrwCfJ09i8aqdQ5nGnHuDTZ2LGYeclPqADqM0Yc/5vj56SIN1X+AOqe2Cu6KSY7Lhi4/hpt6xxuQkPcYR7DEtsmj+AXEpgp39CuoEOzi3I/rexi7NSwyv+XzwKb/+FzmiCKAHYEZXRufvAD4zZqFLjfU4MKI6ZMUj3mEbUPUNq/kMwx8IfpNNccHnD/Iipi7y8O8Vw9zhbcPQeH0lIiKanUEzTOgrTWPrG6aJYwBFhkzOpHKceuTtzaRzJPqMkmVPPeoi3TQjdXlbTGRbbpOyENjlsEp6NlMYyo2FfETLI+2zCWLtOZ+EJnxa4A2F2S0sDbdw5ukIHUClamA4Ai620qJRihBPcNCMsHv3R6wmsFR9D8tGCULXlJXWkIcwpn83nqETfDGe0pKdYwshzMsCefD79715TVhDUMr7AXBg5C3Agvw45AztY0rMci/GdXqANeLwfKYb351a9ZrnZQKHN9Z1oI7MvBhx7+DdvS0+jpxHHlqwXyCogBMK55OVIVeaBQweZQFyE1r1x0rLEptaS4VAjAM0qpy3c+gSmBN78zoXrTNceT2LbXFDuhcJUIAk4EiO8s+DMT52T6u3wVOcHQe1qI8QIKin1rkFtdsaS0vEHgO3519eXC2WPxrce+I=",
+                    "placeholder": null,
+                    "text": ""
+                },
+                {
+                    "tag": "input",
+                    "id": "txtCNPJNome",
+                    "name": "txtCNPJNome",
+                    "type": "text",
+                    "value": null,
+                    "placeholder": null,
+                    "text": ""
+                },
+                {
+                    "tag": "input",
+                    "id": "cbAdm",
+                    "name": "cbAdm",
+                    "type": "checkbox",
+                    "value": null,
+                    "placeholder": null,
+                    "text": ""
+                },
+                {
+                    "tag": "input",
+                    "id": "btnContinuar",
+                    "name": "btnContinuar",
+                    "type": "submit",
+                    "value": "Continuar >",
+                    "placeholder": null,
+                    "text": ""
+                },
+                {
+                    "tag": "select",
+                    "id": "ddlTpFdo",
+                    "name": "ddlTpFdo",
+                    "type": null,
+                    "value": null,
+                    "placeholder": null,
+                    "text": "Todos\nCLASSES DE COTAS DE FUNDOS FIAGRO\nCLASSES DE COTAS DE FUNDOS FIF\nCLASSES DE COTAS DE FUNDOS FIF (FAPI)\nCLASSES DE COTAS DE FUNDOS FIP\nCLASSES DE COTAS DE FUNDOS FUNCINE\nFDO INV EM DIR CREDITÓRIOS - PROJ INTERESSE SOCIAL\nFDOS CONV. CAPITAL ESTRANGEIRO (ÁREA LIVRE)\nFDOS CONV. DE CAPITAL ESTRANGEIRO (ÁREA INC.)\nFDOS DE APOSENTADORIA PROGRAMADA INDIVIDUAL\nFDOS DE INV. EM COTAS DE FIDC - FICFIDC\nFDOS DE INV. EM DIREITOS CREDITÓRIOS - FIDC\nFDOS DE INV. FGTS\nFDOS DE INVESTIMENTO\nFDOS DE INVESTIMENTO EM COTAS DE FIP\nFDOS DE INVESTIMENTO EM ÍNDICE DE MERCADO\nFDOS DE INVESTIMENTO EM PARTICIPAÇÕES - FIP\nFDOS DE INVESTIMENTO IMOBILIÁRIO\nFDOS DE INVESTIMENTOS CULTURAIS E ARTÍSTICOS\nFDOS FINANC. DA INDÚSTRIA CINEMATOGRÁFICA NACIONAL\nFDOS INV. DIR CREDITÓRIOS NÃO PADRONIZADOS-FIDC NP\nFDOS MÚTUOS DE INVESTIMENTOS EM EMPR. EMERGENTES\nFDOS MÚTUOS DE PRIVATIZAÇÃO - FGTS\nFDOS MÚTUOS DE PRIVATIZAÇÃO - FGTS CARTEIRA LIVRE\nFDOS MÚTUOS EM AÇÕES INCENTIVADAS\nFUNDOS DE INVESTIMENTO DAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO\nSOCIEDADES INVESTIMENTO CAPITAL ESTRANGEIRO"
+                }
+            ],
+            "child_frames": []
+        },
+        {
+            "frame_url": "https://cvmweb.cvm.gov.br/SWB/footer.asp",
+            "depth": 1,
+            "inputs": [],
+            "child_frames": []
+        }
+    ]
+}
